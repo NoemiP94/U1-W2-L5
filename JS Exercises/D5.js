@@ -115,7 +115,7 @@ REGOLE
 //   }
 // }
 
-/* ESERCIZIO 9 FINIRE!!!
+/* ESERCIZIO 9 
     Utilizza un ciclo while per stampare in console i valori del seguente array numerico fino al raggiungimento del numero 32.
 */
 // const numericArray = [
